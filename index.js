@@ -5,5 +5,5 @@ function doToElementsInArray(){
 
 // Add your changeCompletely() function here:
 functiom changeCompletely(){
-  
+
 }
